@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋 I'm Fahim Patel
 
-<!--
-**Patelfahim/patelfahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+💻 Learning new skills to improve myself.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+* C#
+* .NET Framework
+* PHP
+* HTML / CSS / JS
+* MySQL
+* java
+* C++
+* C
+* Python
+
+---
+
+## 📂 Projects
+
+🔹 **T-Shirt Selling Website**
+Online store page created as a college project.
+
+🔹 **Login System**
+Simple authentication system using PHP.
+
+
+---
+
+## 📫 Contact
+
+LinkedIn: https://www.linkedin.com/in/patelfahim03?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+GitHub: https://github.com/yourusername
