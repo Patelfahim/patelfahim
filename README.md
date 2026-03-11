@@ -1,41 +1,45 @@
 # Hi 👋 I'm Fahim Patel
-
 🎓 Computer Science Student
 💻 Learning new skills to improve myself.
 
 ---
 
 ## 🚀 Skills
-
 * C#
 * .NET Framework
 * PHP
 * HTML / CSS / JS
 * MySQL
-* java
+* Java
 * C++
 * C
 * Python
+* SQL
 
 ---
 
 ## 📂 Projects
-
 🔹 **T-Shirt Selling Website**
 Online store page created as a college project.
 
 🔹 **Login System**
 Simple authentication system using PHP.
 
+---
+
+## 🏆 Certifications
+
+🎖️ **Intro to SQL** — Kaggle
+Issued: March 11, 2026
+Certified by Rachael Tatman (Kaggle Instructor) & Alexis Cook (Head of Kaggle Learn)
+
+🎖️ **Introduction to Python** — Analytics Vidhya
+Issued: March 10, 2026
 
 ---
 
 ## 📫 Contact
-
 * E-mail: pfahim7869@gmail.com
-
-* phone: +91-9725363759
-
-* LinkedIn: https://www.linkedin.com/in/patelfahim03?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
+* Phone: +91-9725363759
+* LinkedIn: https://www.linkedin.com/in/patelfahim03
 * GitHub: https://github.com/patelfahim
