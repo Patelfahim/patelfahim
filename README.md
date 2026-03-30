@@ -12,10 +12,10 @@
 C# | .NET Framework | PHP | Java | C++ | C | Python  
 
 **Web Development:**  
-HTML | CSS | JavaScript  
+HTML | CSS | JavaScript | React.js | Node.js
 
 **Database:**  
-MySQL | SQL  
+MySQL
 
 ---
 
